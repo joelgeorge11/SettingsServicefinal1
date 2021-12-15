@@ -1,0 +1,3 @@
+include ':settingsinterfacemanager'
+include ':app'
+rootProject.name = "SettingsService"
